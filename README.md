@@ -21,7 +21,7 @@ git clone
 npm install
 ```
 
-Run app
+### Run app
 
 ```
 node server.js
