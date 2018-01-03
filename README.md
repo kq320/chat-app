@@ -4,7 +4,7 @@
 
 Full Stack web application based on Node.js, Express.js, and Socket.io.
 
-The web application can be found: https://chat-room-kq320.herokuapp.com/
+The website deployed in the Heroko: https://chat-room-kq320.herokuapp.com/
 
 ### Structure
 
